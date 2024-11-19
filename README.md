@@ -1,6 +1,6 @@
 # Helen-Bot
 Helen bot is a multipurpose discord bot. It has several features such as:
-- A mathcmaking command that provides a % mathc between users based on the statistics of the server
+- A mathcmaking command that provides a % match between users based on the statistics of the server
 - 'I'm' and 'You're' detection. Responds back as Hi ---, I'm Helen when bot detect 'I'm' and responds back as 'No they are [user name]' when'You're is detected'. Also supports accronyms for the key words, for example 'u r' would be detected as 'You're'.
 - Adds moai reaction on every message in a specified channel. *As of right now only my server is supported as thats the referencec link, if you'd like moai reactions in a server of you're own you can change the link to you're respective server.*
 - Adds gemini support, so when you're group is wondering something you can search something up quickly using the bot's gemini command(by default, uses gemini flash model for quick responses, could be change by configuring the command on use). Gemini also understands the context of what users are talking about if used in a chain of replies.
